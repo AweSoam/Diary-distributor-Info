@@ -1,0 +1,5 @@
+{
+  "name": "DairyFlow Order Manager",
+  "description": "A sleek and intuitive application for dairy distributors to manage products, customers, orders, and billing with ease. It features real-time price calculation, order history, and bill generation.",
+  "requestFramePermissions": []
+}
